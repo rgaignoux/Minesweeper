@@ -12,7 +12,7 @@ A simple minesweeper created in Python, using the Tkinter GUI library.
 
 You can start a new game by pressing the « smiley » button
 
-# To start a new game
+# To start a game
 
 ```
 python3 main.py

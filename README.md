@@ -1,1 +1,19 @@
+# Minesweeper in python
 
+A simple minesweeper created in Python, using the Tkinter GUI library.
+
+![](https://github.com/rgaignoux/Minesweeper/blob/master/minesweeper_demo.gif)
+
+# How to play
+
+- Left click on a tile to open it.
+- Right click on a tile to mark a tile as a bomb.
+- Double left click to open all the tiles surrounding a tile with a number, if you have marked the number of mines around that number.
+
+# To start a new game
+
+```
+python3 main.py
+```
+
+By default, the minesweeper will be initialized by a 10x10 grid, with 10 mines. This can be changed in the main.py file.

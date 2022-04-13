@@ -7,7 +7,7 @@ A simple minesweeper created in Python, using the Tkinter GUI library.
 # How to play
 
 - Left click on a tile to open it.
-- Right click on a tile to mark it as a bomb.
+- Right click on a tile to mark it as a mine.
 - Double left click to open all the tiles surrounding a tile with a number, if you have marked the number of mines around that number.
 
 # To start a new game
